@@ -19,6 +19,16 @@ Most repositories contain **course practices and small projects developed during
 
 ### Bayes Train and Test
 Project developed as my **Bachelor's Final Thesis (TFG)**.
+🥈 **Second Prize — V Edición Premios Aragoneses de Ingeniería Informática (TFG Awards)**  
+
+Awarded for my Bachelor's Final Thesis:
+
+**"Diagnóstico de cáncer de próstata con modelos de redes neuronales bayesianas"**
+
+> Organized by the Aragoneses de Ingeniería Informática awards, recognizing outstanding final degree projects in the field.
+
+Read more:  
+https://www.aragonhoy.es/empleo-ciencia-universidades/v-edicion-premios-aragoneses-ingenieria-informatica-100669
 
 ---
 
